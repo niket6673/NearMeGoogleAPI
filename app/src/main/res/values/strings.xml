@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nearby Me</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_places_API">AIzaSyDZyDcbas0WGuFHoQd1scqcw0Q1qlbyj3g</string>
+    <string name="title_activity_google_maps">Map</string>
+</resources>
